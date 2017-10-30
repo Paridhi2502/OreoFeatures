@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OreoFeatures.iml" filepath="$PROJECT_DIR$/OreoFeatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/downloadablefont/downloadablefont.iml" filepath="$PROJECT_DIR$/downloadablefont/downloadablefont.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firebasejobdispatcher/firebasejobdispatcher.iml" filepath="$PROJECT_DIR$/firebasejobdispatcher/firebasejobdispatcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jobscheduler/jobscheduler.iml" filepath="$PROJECT_DIR$/jobscheduler/jobscheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificationdot/notificationdot.iml" filepath="$PROJECT_DIR$/notificationdot/notificationdot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pipApp/pipApp.iml" filepath="$PROJECT_DIR$/pipApp/pipApp.iml" />
+    </modules>
+  </component>
+</project>
