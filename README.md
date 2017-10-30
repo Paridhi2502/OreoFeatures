@@ -9,8 +9,8 @@ The main goal show the most important features of android oreo.
 4) Firebase Job dispatcher
 5) Job Scheduler
 
-**### Do you want to contribute?**
+### **Do you want to contribute?**
 Feel free to report or add any useful feature, I will be glad to improve it with your help.
 
-**### Developed By**
+### **Developed By**
 **Paridhi Kothari - paridhi.softinator@gmail.com**
