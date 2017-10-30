@@ -14,3 +14,6 @@ Feel free to report or add any useful feature, I will be glad to improve it with
 
 ### **Developed By**
 **Paridhi Kothari - paridhi.softinator@gmail.com**
+
+### **Presentation Link on Android Oreo 8.0v :**
+https://docs.google.com/presentation/d/1ExFx8JOvgNgMvSY5RxKAIgtWrBJYKHV95PDcRFQI_yU/edit?usp=sharing
